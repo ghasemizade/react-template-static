@@ -3,7 +3,7 @@
 }
 .header-section{
     min-height: 100vh;
-    background-image: url('../../../public/hero-bg.jpg');
+    background-image: linear-gradient(to bottom, #000, #4d4c4c4f),  url('../../../public/hero-bg.jpg');
 }
 
 /* NavBar design */
@@ -14,8 +14,17 @@
 }
 .logo a{
     text-decoration: none;
-    color: #FFC451;
+    color: #fff;
     font-size: 46px;
+    transition: .5s;
+}
+.logo a:hover{
+    background-image: linear-gradient(45deg, #FFBB38, #fff);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
 }
 .nav-items{
     display: flex;
@@ -56,4 +65,17 @@
     .nav-btn-start a{
         visibility: hidden;
     }
+}
+/* main content */
+.MainContentHeader{
+    text-align: center;
+}
+.title-header{
+    font-size: 3rem;
+    color: #fff;
+    margin-top: 7rem;
+}
+.company-name-header{
+    font-size: 3rem;
+    color: #FFC451;
 }
