@@ -3,7 +3,7 @@
 }
 .header-section{
     min-height: 100vh;
-    background-image: linear-gradient(to bottom, #000, #4d4c4c4f),  url('../../../public/hero-bg.jpg');
+    background-image: linear-gradient(to bottom, #000000, #ffb93809),  url('../../../public/hero-bg.jpg');
 }
 
 /* NavBar design */
@@ -69,13 +69,18 @@
 /* main content */
 .MainContentHeader{
     text-align: center;
+    margin-top: 10rem;
 }
 .title-header{
-    font-size: 3rem;
+    font-size: 3.5rem;
     color: #fff;
     margin-top: 7rem;
 }
 .company-name-header{
     font-size: 3rem;
     color: #FFC451;
+}
+.description-header{
+    font-size: 2rem;
+    color: #fff;
 }
