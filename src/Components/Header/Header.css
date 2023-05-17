@@ -95,9 +95,13 @@
 .description-title{
     color: #fff;
     font-size: 22px;
+    transition: .2s;
+}
+.description-title:hover{
+    color: #FFBB38;
 }
 .icon-header{
-    max-width: 2.5rem;
+    max-width: 3rem;
     margin: auto;
     transition: .3s ease;
 }
