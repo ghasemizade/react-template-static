@@ -31,12 +31,13 @@
     font-size: 18px;
     font-weight: 500;
 }
-.nav-btn-start{
-    text-align: center;
-    color: #fff;
-    width: 5rem;
-    height: 2.5rem;
-    border: .15rem solid #FFC451;
+.nav-btn-start a{
+    padding: .7rem;
+    /* width: 5rem; */
+    /* height: 2.5rem; */
+    text-decoration: none;
     border-radius: .2rem;
+    color: #fff;
+    border: .15rem solid #FFBB38;
     background-color: transparent;
 }

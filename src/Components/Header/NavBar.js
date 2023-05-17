@@ -14,7 +14,7 @@ function NavBar() {
             <li className="items"><a href="#">Contacts</a></li>
             {/* <li className="items"><a href="#"></a></li> */}
         </ul>
-        <button className='nav-btn-start'>START</button>
+        <div className='nav-btn-start'><a href="#">START</a></div>
     </div>
   )
 }
