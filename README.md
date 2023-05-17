@@ -4,7 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Installation Guide
+
+Open terminal and run below commmands
+
+`git clone https://github.com/ghasemizade/react-template-static.git`
+
+`cd react-template-static`
+
+`npm install`
 
 ### `npm start`
 
