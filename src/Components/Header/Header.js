@@ -1,9 +1,12 @@
 import React from 'react'
 import NavBar from './NavBar'
 
+
 function Header() {
   return (
-    <NavBar/>
+    <div className='header-section'>
+        <NavBar/>
+    </div>
   )
 }
 

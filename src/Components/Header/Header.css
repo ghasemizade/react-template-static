@@ -1,3 +1,5 @@
+
+
 /* NavBar design */
 .navbar{
     display: flex;
@@ -19,4 +21,5 @@
 }
 .nav-items .items a{
     text-decoration: none;
+    color: #888;
 }
