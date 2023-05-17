@@ -1,4 +1,9 @@
-
+*{
+    font-family: sans-serif;
+}
+.header-section{
+    background-image: url('../../../public/hero-bg.jpg');
+}
 
 /* NavBar design */
 .navbar{
@@ -8,7 +13,8 @@
 }
 .logo a{
     text-decoration: none;
-    color: #888;
+    color: #FFC451;
+    font-size: 46px;
 }
 .nav-items{
     display: flex;
@@ -16,10 +22,21 @@
     align-items: center;
 }
 .nav-items .items{
-    margin-right: 1rem;
+    margin-right: 2rem;
     list-style-type: none;
 }
 .nav-items .items a{
     text-decoration: none;
-    color: #888;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+}
+.nav-btn-start{
+    text-align: center;
+    color: #fff;
+    width: 5rem;
+    height: 2.5rem;
+    border: .15rem solid #FFC451;
+    border-radius: .2rem;
+    background-color: transparent;
 }
