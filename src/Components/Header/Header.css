@@ -30,14 +30,24 @@
     color: #fff;
     font-size: 18px;
     font-weight: 500;
+    transition: .2s;
+}
+.nav-items .items a:hover{
+    color: #FFBB38;
 }
 .nav-btn-start a{
     padding: .7rem;
-    /* width: 5rem; */
-    /* height: 2.5rem; */
+    text-align: center;
     text-decoration: none;
-    border-radius: .2rem;
+    border-radius: 0.2rem;
     color: #fff;
     border: .15rem solid #FFBB38;
     background-color: transparent;
+    transition: .2s ease-in;
+    font-size: 18px;
+    font-weight: 500;
+}
+.nav-btn-start a:hover{
+    background-color: #FFBB38;
+    color: #000;
 }
