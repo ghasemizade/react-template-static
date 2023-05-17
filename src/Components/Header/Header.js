@@ -2,6 +2,7 @@ import React from 'react'
 import NavBar from './NavBar'
 import './Header.css'
 import MainContentHeader from './MainContentHeader'
+import BoxHeader from './BoxHeader'
 
 
 function Header() {
@@ -9,6 +10,7 @@ function Header() {
     <div className='header-section'>
         <NavBar/>
         <MainContentHeader/>
+        <BoxHeader/>
     </div>
   )
 }
