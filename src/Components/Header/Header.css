@@ -2,6 +2,7 @@
     font-family: sans-serif;
 }
 .header-section{
+    min-height: 100vh;
     background-image: url('../../../public/hero-bg.jpg');
 }
 
@@ -50,4 +51,9 @@
 .nav-btn-start a:hover{
     background-color: #FFBB38;
     color: #000;
+}
+@media screen and (max-width: 890px){
+    .nav-btn-start a{
+        visibility: hidden;
+    }
 }
