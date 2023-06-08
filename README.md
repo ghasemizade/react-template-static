@@ -1,4 +1,5 @@
 # Template Static React App
+![image](https://github.com/ghasemizade/react-template-static/assets/92257857/12db00e4-c194-4269-a5cf-ce512e38b879)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
