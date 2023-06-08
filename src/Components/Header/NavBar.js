@@ -9,7 +9,13 @@ function NavBar() {
             <li className="items"><a href="#">Home</a></li>
             <li className="items"><a href="#">AboutUs</a></li>
             <li className="items"><a href="#">Services</a></li>
-            <li className="items"><a href="#">SampleWorks</a></li>
+            <li className="items item-drop"><a href="#">SampleWorks</a>
+              <ul className='dropdown-content'>
+                <li><a href="">dentice</a></li>
+                <li><a href="">worker</a></li>
+                <li><a href="">programmer</a></li>
+              </ul>
+            </li>
             <li className="items"><a href="#">Teams</a></li>
             <li className="items"><a href="#">Contacts</a></li>
             {/* <li className="items"><a href="#"></a></li> */}
