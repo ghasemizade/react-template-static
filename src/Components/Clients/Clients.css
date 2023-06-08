@@ -1,0 +1,17 @@
+.container ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container ul li{
+    padding: 2rem;
+}
+.container ul li img{
+    width: 200px;
+    filter: contrast(0);
+    transition: .2s;
+}
+.container ul li img:hover{
+    filter: contrast(1);
+}
