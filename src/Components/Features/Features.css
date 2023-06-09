@@ -1,0 +1,32 @@
+.left-side-img img{
+    width: 700px;
+    border-radius: .5rem;
+}
+.right-content{
+    display: flex;
+    width: 400px;
+    margin-left: 2rem;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin-bottom: 1rem;
+}
+.flex img{
+    width: 50px;
+    margin-right: 1.5rem;
+    filter: opacity(0.7);
+    transition: .2s;
+}
+.flex img:hover{
+    filter: opacity(1);
+    transform: scale(1.05);
+    
+}
+.text-content{
+    color: #444;
+}
+.title{
+    color: #FFC451;
+}
