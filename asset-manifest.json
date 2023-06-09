@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/react-template-static/static/css/main.b3076b98.css",
-    "main.js": "/react-template-static/static/js/main.5c0fbd72.js",
+    "main.css": "/react-template-static/static/css/main.c815fb29.css",
+    "main.js": "/react-template-static/static/js/main.462e3e9c.js",
     "static/js/496.f1cc2b53.chunk.js": "/react-template-static/static/js/496.f1cc2b53.chunk.js",
     "static/media/hero-bg.jpg": "/react-template-static/static/media/hero-bg.fa6c455cbec2a3f793f9.jpg",
+    "static/media/about.jpg": "/react-template-static/static/media/about.8498bb5a6bb57ce22b96.jpg",
+    "static/media/features.jpg": "/react-template-static/static/media/features.6d02393b972240830f51.jpg",
+    "static/media/dimensions.png": "/react-template-static/static/media/dimensions.4542934e50e35c50e58d.png",
+    "static/media/image.png": "/react-template-static/static/media/image.ede241fd61a11cf406c6.png",
     "index.html": "/react-template-static/index.html",
-    "main.b3076b98.css.map": "/react-template-static/static/css/main.b3076b98.css.map",
-    "main.5c0fbd72.js.map": "/react-template-static/static/js/main.5c0fbd72.js.map",
+    "static/media/database-solid.svg": "/react-template-static/static/media/database-solid.feb2d9db0b38b318d14d6679091c6568.svg",
+    "static/media/paint-roller-solid.svg": "/react-template-static/static/media/paint-roller-solid.65e14cf4d5e51d9b978da55e486c93aa.svg",
+    "static/media/shop-solid.svg": "/react-template-static/static/media/shop-solid.42c27ed1129f428ff698824e8dad5a19.svg",
+    "static/media/chart-simple-solid.svg": "/react-template-static/static/media/chart-simple-solid.9127a9268f6411dacf6361cd95f6dec3.svg",
+    "static/media/calendar-solid.svg": "/react-template-static/static/media/calendar-solid.d4a3a3884cb3262e6e200ef5e7a946ae.svg",
+    "main.c815fb29.css.map": "/react-template-static/static/css/main.c815fb29.css.map",
+    "main.462e3e9c.js.map": "/react-template-static/static/js/main.462e3e9c.js.map",
     "496.f1cc2b53.chunk.js.map": "/react-template-static/static/js/496.f1cc2b53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3076b98.css",
-    "static/js/main.5c0fbd72.js"
+    "static/css/main.c815fb29.css",
+    "static/js/main.462e3e9c.js"
   ]
 }
