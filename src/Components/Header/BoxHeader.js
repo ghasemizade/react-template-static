@@ -1,11 +1,13 @@
 import React from 'react';
 import './Header.css'
+// import test from 'shop-solid.svg'
+
 
 function BoxHeader() {
   return (
     <div className='boxes-header'>
         <div className="boxes">
-            <div className='icon-header'><img className='shop-solid' src={'shop-solid.svg'} alt="shop" /></div>
+            <div className='icon-header'><img className='shop-solid' src={'shop-solid.svg'} alt="shop"/></div>
             <p className='description-title'>Dramatic text</p>
         </div>
         <div className="boxes">
